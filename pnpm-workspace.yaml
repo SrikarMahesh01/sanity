@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: set this to true or false
+  unrs-resolver: set this to true or false
+minimumReleaseAgeExclude:
+  - '@sanity/client@8.6.1'
+  - get-it@9.5.4
